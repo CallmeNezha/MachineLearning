@@ -26,7 +26,7 @@
 ## 机器视觉
 ### 公开课
 1. 斯坦福 cs231n 李飞飞
-    * 播单: http://list.youku.com/albumlist/show?id=29172042&ascending=1&page=1
+    * 播单: http://list.youku.com/albumlist/show?id=29172042&ascending=1&page=1
     * 网站: http://cs231n.stanford.edu/
 
 
