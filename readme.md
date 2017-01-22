@@ -31,8 +31,10 @@
 
 
 
-## 通用工具集
-编程工具大指南: https://github.com/josephmisiti/awesome-machine-learning
+## Awesome！
+ 1. 编程工具大指南: https://github.com/josephmisiti/awesome-machine-learning
+ 2. RNN: https://github.com/kjw0612/awesome-rnn
+ 3. Deep-Vision: https://github.com/kjw0612/awesome-deep-vision
 
 
 
