@@ -40,6 +40,9 @@
     
 3. 杜克 coursa - Digital Image procesing - Alireza Saberi
     * 播单: https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs&index=1
+
+4. 斯坦福 coursa - Probabilistic Graphical Models - Daphne Koller
+    * 播单: https://www.youtube.com/watch?v=WPSQfOkb1M8&t=2s&index=1&list=PL50E6E80E8525B59C
     
 ## Awesome！
  1. 编程工具大指南: https://github.com/josephmisiti/awesome-machine-learning
