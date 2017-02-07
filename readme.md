@@ -8,6 +8,7 @@
 2. 斯坦福  cs229 - Machine Learning - Andrew Ng.
     * 播单: http://open.163.com/special/opencourse/machinelearning.html
     * 网站: http://cs229.stanford.edu/
+    
 ### 数值优化公开课
 1. 斯坦福 ee364a - Convex Optimization - Stephen P. Boyd
     * 播单: http://v.youku.com/v_show/id_XMTY5NzE0OTkwOA==.html?f=27981164&from=y1.7-3&spm=a2hzp.8253876.0.0
