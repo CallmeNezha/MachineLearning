@@ -49,7 +49,11 @@
  2. RNN: https://github.com/kjw0612/awesome-rnn
  3. Deep-Vision: https://github.com/kjw0612/awesome-deep-vision
 
-
+## 自然语言
+### 公开课
+1. 斯坦福 cs224d - Deep learning for Natural Language Processing - Richard Socher
+    * 播单: https://www.youtube.com/playlist?list=PLlJy-eBtNFt6nEiBzI0EFWCXQ0W8B5A8e
+    * 网站: http://cs224d.stanford.edu/
 
 # 人工智能
 ## 基础理论
