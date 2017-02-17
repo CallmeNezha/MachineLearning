@@ -16,7 +16,8 @@
     * 播单: http://v.youku.com/v_show/id_XMTY5NzE1MTM1Mg==.html?f=27989328&spm=a2hzp.8253876.0.0&from=y1.7-3
     * 网站: http://stanford.edu/~boyd/
 
-
+## 通用工具集
+编程工具大指南: https://github.com/josephmisiti/awesome-machine-learning
 
 ## 深度学习
 ### 公开课
@@ -28,10 +29,10 @@
 1. 斯坦福 cs231n: http://cs231n.stanford.edu/
 
 
+## 语音识别
 
-## 通用工具集
-编程工具大指南: https://github.com/josephmisiti/awesome-machine-learning
-
+### 开源库
+1. CMU Sphinx: http://cmusphinx.sourceforge.net/
 
 
 # 人工智能
