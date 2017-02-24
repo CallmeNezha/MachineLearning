@@ -49,7 +49,6 @@
  1. 编程工具大指南: https://github.com/josephmisiti/awesome-machine-learning
  2. RNN: https://github.com/kjw0612/awesome-rnn
  3. Deep-Vision: https://github.com/kjw0612/awesome-deep-vision
->>>>>>> 7af877e0f70392654c7fbcc8c729bb7666fcd50a
 
 ## 自然语言
 ### 公开课
